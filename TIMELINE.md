@@ -1,42 +1,17 @@
 # Schedule plan
 
-| ID  | Date  | Goal                                                                                                                                                                                                          |
-| --- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | 2/16  | Select team, send emails out Schedule meeting for 22nd or 23rd, weekly meetings                                                                                                                               |
-| 2   | 2/23  | Meet sometime to onboard to Zulip and Github workflow, keep in loop about all team meeting. Start off wireframe github using nextjs, have some time spent reviewing react                                     |
-| 3   | 3/2   | Discuss wireframes and merge designs together, talk about ideas that work and dont work. Plan work on creating higher fidelity versions. Talk about nextjs, React stuff, color used.   |
-| 4   | 3/9   | Discuss finalized wireframes, plan out some components and combining stuff, plan out component structure as a group. Delegate individuals to certain tasks by setting up github issues.  |
-| 5   | 3/16  | Just have a brief check in with how things are going. Go over Github issues. Light meeting, since finals week                                                                                                 |
-| 6   | 3/23  | Spring break begins, no meetings (unless you guys want). Feel free to work on designs or so over break if you feel inspired. I will check in when I have free time. Schedule weekly meetings for next quarter |
-| 7   | 3/30  | Spring break continues. No meeting. Will not be able to be contacted.                                                                                                                                         |
-| 8   | 4/6   | Spring quarter first meeting. Start implementing based on finalized wireframes.                                                                                                                               |
-| 9   | 4/13  | Site should be bare bones but halfway done ish                                                                                                                                                                |
-| 10  | 4/20  | Site should be nearing completion and ready for deploying. I will handle this, but make a video on how I do it.                                                                                               |
-| 11  | 4/27  | Buffer week for working on site. If done early, shift schedule up                                                                                                                                             |
-| 12  | 5/4   | Buffer week for working on site. If done early, shift schedule up. By now everyone should know React.                                                                                                         |
-| 13  | 5/11  | Talk about Wiki quirks and stuff, and past decisions. Homework is to start wireframes for the editor                                                                                                          |
-| 14  | 5/18  | Continue with editor wireframes, start to plan out data structures as well, workflows.                                                                                                                        |
-| 15  | 5/25  | Finalize wireframes and designs, start to work on it. Lots of code reviews and incorporate modern React stuffs.                                                                                               |
-| 16  | 6/1   | Continue to work on it, but slow down work as finals approach. Will be updating and see what sorts of things the Wetlab part of project calls for.                                                            |
-| 17  | 6/8   | Final exam week. Schedule weekly (online?) meetings for summer quarter                                                                                                                                        |
-| 18  | 6/15  | Commencement, basically start of summer break                                                                                                                                                                 |
-| 19  | 6/22  | Continue work...                                                                                                                                                                                              |
-| 20  | 6/29  | ...                                                                                                                                                                                                           |
-| 21  | 7/6   | ...                                                                                                                                                                                                           |
-| 22  | 7/13  | ...                                                                                                                                                                                                           |
-| 23  | 7/20  | (make editor call a post command to post image for us?)                                                                                                                                                       |
-| 24  | 7/27  | ...                                                                                                                                                                                                           |
-| 25  | 8/3   | Maybe do some user tests with editor, teach team how to use it. Ensure is bug free.                                                                                                                           |
-| 26  | 8/10  | ...                                                                                                                                                                                                           |
-| 27  | 8/17  | ...                                                                                                                                                                                                           |
-| 28  | 8/24  | ...                                                                                                                                                                                                           |
-| 29  | 8/31  | Start finishing touches. Ensure is completely ready for content.                                                                                                                                              |
-| 30  | 9/7   | Get briefed again on uploading stuff to igem site. Schedule weekly meetings autumn quarter                                                                                                                    |
-| 31  | 9/14  | ...                                                                                                                                                                                                           |
-| 32  | 9/21  | School begins (9/25)                                                                                                                                                                                          |
-| 33  | 9/28  | ...                                                                                                                                                                                                           |
-| 34  | 10/5  | As changes come in, add to live site as backup.                                                                                                                                                               |
-| 35  | 10/12 | Wiki party?                                                                                                                                                                                                   |
-| 36  | 10/19 | Wiki freeze coming up (10/21)                                                                                                                                                                                 |
-| 37  | 10/26 | No work                                                                                                                                                                                                       |
-| 38  | 11/2  | GIANT JAMBOREE                                                                                                                                                                                                | **** |
+| ID  | Date  | Goal                                                                                                                       |
+| --- | ----- | -------------------------------------------------------------------------------------------------------------------------- |
+| 26  | 8/10  | Have documentation for individual projects kinda done, immediately start implementation. Aim for start of school DEADLINE. |
+| 27  | 8/17  | Project goal 1/5 reached                                                                                                   |
+| 28  | 8/24  | Project goal 2/5 reached                                                                                                   |
+| 29  | 8/31  | Project goal 3/5 reached                                                                                                   |
+| 30  | 9/7   | Project goal 4/5 reached                                                                                                   |
+| 31  | 9/14  | Project goal 5/5 reached                                                                                                   |
+| 32  | 9/21  | Project should be basically done                                                                                           |
+| 33  | 9/28  | Bug fixes and immediate requests from other subteams (will delegate as they come up)                                       |
+| 34  | 10/5  | Bug fixes, documentation, finishing up stuff, implementing reach goals                                                     |
+| 35  | 10/12 | Wiki party, help people add content to the page and helping with IT stuff.                                                 |
+| 36  | 10/19 | Wiki freeze coming up, should basically be done (10/21)                                                                    |
+| 37  | 10/26 | Hopefully no work                                                                                                          |
+| 38  | 11/2  | GIANT JAMBOREE                                                                                                             |
